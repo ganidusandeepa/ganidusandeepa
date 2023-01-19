@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ganidusandeepa
 - 👀 I’m interested in coding
+- 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
